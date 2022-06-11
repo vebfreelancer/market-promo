@@ -4,6 +4,15 @@
 My first custom landing page development. Animation of shapes using CSS. Menu navigation by sections.  
 Accordion and mobile menu implemented using jQuery.
 ```
+- Adaptive
+- Semantics
+- Cross - browser
+- HTML5
+- CSS3
+- jQuery
+- FlexBox
+- BEM
+
 ### Tests:
 - HTML validity - The result of the page test is no errors or warnings according to the Markup Validation Service W3C, validator checks the [markup validity](https://validator.w3.org/#validate_by_uri).
 - CSS validity - no errors according to Markup Validation Service W3C, [css - validator](https://jigsaw.w3.org/css-validator/).
